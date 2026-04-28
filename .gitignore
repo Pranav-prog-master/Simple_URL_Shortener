@@ -49,9 +49,4 @@ yarn-error.log
 *.sqlite3
 postgres_data/
 
-# Uploads
-uploads/
-temp/
-
-# Docker
-docker-compose.override.yml
+.gitignore
