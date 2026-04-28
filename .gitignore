@@ -21,3 +21,5 @@ coverage/
 # Ignore build artifacts
 dist/
 build/
+
+.gitignore
